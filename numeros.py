@@ -1,4 +1,6 @@
 import uteis
+#from uteis import fatorial, dobro
+#from "módulo" import "função"
 
 #PROGRAMA PRINCIPAL
 num = int(input('Digite um valor: '))
